@@ -1,5 +1,4 @@
 .env
-__pycache__/
 .chroma
 .ipynb_checkpoints
 
@@ -12,3 +11,8 @@ LLMs/confluence_app/chroma_db/*
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
